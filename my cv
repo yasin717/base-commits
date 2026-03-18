@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale-1.0">
+    <title>My Cv</title>
+    <link rel="stylesheet" href="styles.css">
+    </head> 
+<nav>
+            <ul>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+    </nav>
+    <body>
+        <h1>Muhammad Yaseen Abubakar</h1>
+        <h2>Frontend Developer</h2>
+        <hr>
+        <h2>Summary</h2><br>Iam Passionatae about web development and creating interactive user experiences.</p>        
+            <section id="education">
+                <h2>Education</h2>
+                <ul>
+                    <li><b>Bachelor of Science in Chemistry</b> - ADSU (Mubi) (2016-2020)<br>
+                    
+                </ul>
+            </section>
+        
+        
+            <section id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>React</li>
+                </ul>
+            </section>
+    
+            <section id="experience">
+                <h2>Experience</h2>
+                <ul>
+                    <li><b>Frontend Developer</b> - XYZ Company (2020-Present)<br>
+                        - Developed and maintained responsive web applications using React.<br>
+                        - Collaborated with designers and backend developers to implement new features.</li>
+                    <li><b>Web Developer Intern</b> - ABC Agency (2019-2020)<br>
+                        - Assisted in the development of client websites using HTML, CSS, and JavaScript.<br>
+                        - Conducted testing and debugging to ensure optimal performance.</li>
+
+                </ul>  
+                </section> 
+                <section id="contact">
+                    <h2>Contact Information</h2>
+                    <p>Email:arafatyaseer716@gmail.com</p>
+                    <p>Phone: +234 8065353790</p>
+                    <p>LinkedIn:<a href="https://www.linkedin.com/in/muhammad-yaseen-abubakar/" target="_blank">My profile</a></p>
+                </section>             
+            <script src="open-cv.js"></script>
+            
+    </body>
+    </html> 
